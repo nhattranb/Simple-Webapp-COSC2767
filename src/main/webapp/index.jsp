@@ -15,8 +15,8 @@
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
       <h1 class="display-4">Hello DevOps Students of RMIT Vietnam!</h1>
-      <p class="lead">This is a very simple website template that uses a 1-dollar Bootstrap CSS framework!</p>
-      <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!!</p>
+      <p class="lead">This is a very simple website template that uses a 333-dollar Bootstrap CSS framework!</p>
+      <p class="lead">This website is built automatically by a million-dollar Jenkins-based EC2-hosted pipeline hahaha!</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
       <p>This is the new change that involves Jenkins, Maven, Ansible, Docker, ... in the pipeline! Woohoo!</p>
